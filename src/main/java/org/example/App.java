@@ -12,5 +12,4 @@ public class App
         System.out.println( "Hello Home!" );
         System.out.println( "Hello Master!" );
     }
-    }
 }
